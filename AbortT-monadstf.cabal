@@ -1,11 +1,11 @@
 Name:                AbortT-monadstf
-Version:             1.0
+Version:             1.0.0.1
 License:             BSD3
 License-file:        LICENSE
 Author:              Gregory Crosswhite
 Maintainer:          Gregory Crosswhite <gcrosswhite@gmail.com>
 Stability:           Provisional
-Homepage:            http://github.com/gcross/AbortT-transformers
+Homepage:            http://github.com/gcross/AbortT-monadstf
 Synopsis:            Monads-tf instances for the AbortT monad transformer.
 Description:         This module provides instances for the monads-tf classes for AbortT.
 Cabal-version:       >=1.6
@@ -25,4 +25,4 @@ source-repository head
 source-repository this
   type:                git
   location:            git://github.com/gcross/AbortT-monadstf.git
-  tag:                 1.0
+  tag:                 1.0.0.1
